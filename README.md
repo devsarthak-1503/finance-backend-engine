@@ -48,12 +48,12 @@ This ensures that authentication, authorization, and validation are handled befo
 - Soft delete functionality for safe data handling
 ---
 
-## 🌐 Live Deployment & Demo
+## Live Deployment & Demo
 
 The backend is fully operational and deployed on the cloud. You can test the live API endpoints using the link below:
 
-Live API URL:** https://finance-backend-engine.onrender.com/  
-API Health Check:** https://finance-backend-engine.onrender.com/health
+- **Live API URL:** https://finance-backend-engine.onrender.com/
+- **API Health Check:** https://finance-backend-engine.onrender.com/health
 ---
 
 ## Role-Based Access Control
