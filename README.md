@@ -158,3 +158,16 @@ This ensures reliability and predictable system behavior.
 This project focuses on backend design clarity, role-based access control, and efficient data handling rather than just implementing endpoints.
 
 The system is structured to reflect real-world backend development practices and can be extended into a full-scale financial application.
+
+
+---
+
+## Contact & Portfolio
+
+I am a **Full Stack Developer** passionate about building scalable, user-centric applications and solving complex backend challenges.
+
+- **Name:** Sarthak Gaikwad  
+- **Email:** [sarthakgaikwad020@gmail.com](mailto:sarthakgaikwad020@gmail.com)  
+- **GitHub:** [devsarthak-1503](https://github.com/devsarthak-1503)
+
+Made with ❤️ by **Sarthak Gaikwad**
